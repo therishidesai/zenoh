@@ -22,3 +22,5 @@
 cargo-timing*.html
 
 ci/valgrind-check/*.log
+
+result
